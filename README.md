@@ -99,8 +99,8 @@ function login(){
 
     const correct =
         (u === "lain" && p === "alice") ||
-        (u === "i exist" && p === "only in the wired") ||
-        (u === "who am i" && p === "unknown");
+        (u === "tanpa_nama.exe" && p === "monlogis") ||
+        (u === "uglyfemcelx" && p === "uglyfoid");
 
     if(correct){ 
         document.body.innerHTML = "> verifying identity...\n> syncing memory...\n> do you remember?\n\n> access granted.";
