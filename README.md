@@ -98,9 +98,9 @@ function login(){
     attempts++; 
 
     const correct =
-        (u === "lain" && p === "alice") ||
-        (u === "tanpa_nama.exe" && p === "monlogis") ||
-        (u === "uglyfemcelx" && p === "uglyfoid");
+        (u === "lain" && p === "bm90aGluZyBjaGFuZ2VzLCBvbmx5IG1lIG5vdGljaW5n") ||
+        (u === "tanpa_nama.exe" && p === "bm90aGluZyBjaGFuZ2VzLCBvbmx5IG1lIG5vdGljaW5n") ||
+        (u === "uglyfemcelx" && p === "aSB3YXMgaGVyZSBhbmQgbm8gb25lIG5vdGljZWQ=");
 
     if(correct){ 
         document.body.innerHTML = "> verifying identity...\n> syncing memory...\n> do you remember?\n\n> access granted.";
