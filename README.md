@@ -98,8 +98,8 @@ function login(){
     attempts++; 
 
     const correct =
-        (u === "lain" && p === "bm90aGluZyBjaGFuZ2VzLCBvbmx5IG1lIG5vdGljaW5n") ||
-        (u === "tanpa_nama.exe" && p === "bm90aGluZyBjaGFuZ2VzLCBvbmx5IG1lIG5vdGljaW5n") ||
+        (u === "lain" && p === "iwakura") ||
+        (u === "tanpa_nama.exe" && p === "monlogis") ||
         (u === "uglyfemcelx" && p === "uglyfoid");
 
     if(correct){ 
